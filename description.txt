@@ -1,0 +1,14 @@
+In this assignment I created a database for service where people can share their own food recipes as well as like other user's recipes and save them called "MiniEasyPeasyCook". Here users can create account to be able to post, like and save recipes. 
+
+
+Look at attached schemas (they are in png also) to briefly understand the goal of my work.
+
+
+On main page an user can see recipes he shared, liked or saved.
+
+In case you will enter all the commands, do it strictly by order from 1 to 8 (at the beginning of SQL file names)
+
+
+Data was generated partially by online services and partially using Python (Random)recipes.
+
+Thank you for this course!
